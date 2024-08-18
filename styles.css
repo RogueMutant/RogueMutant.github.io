@@ -4,9 +4,10 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  overflow: hidden;
 }
-
+html{
+    overflow: hidden;
+}
 :root {
   --mont-font-: Montserrat, Arial, Helvetica, sans-serif;
   --Roboto-font-: "Roboto Condensed", Arial, Helvetica, sans-serif;
