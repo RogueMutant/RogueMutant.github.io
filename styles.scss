@@ -688,6 +688,7 @@ header {
     padding: 0;
     box-sizing: border-box;
     width: 100%;
+    overflow: hidden;
   }
 
   html {
@@ -1221,7 +1222,7 @@ header {
 
 @media screen and (min-width: 640px) and (max-width: 1000px) {
   html {
-    overflow-x: hidden;
+    overflow: hidden;
   }
 
   .header {
