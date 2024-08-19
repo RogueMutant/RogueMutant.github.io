@@ -5,9 +5,7 @@ body {
   margin: 0;
   padding: 0;
 }
-*{
-    overflow-x: hidden;
-}
+
 :root {
   --mont-font-: Montserrat, Arial, Helvetica, sans-serif;
   --Roboto-font-: "Roboto Condensed", Arial, Helvetica, sans-serif;
