@@ -6,7 +6,7 @@ body {
   padding: 0;
 }
 *{
-    overflow: hidden;
+    overflow-x: hidden;
 }
 :root {
   --mont-font-: Montserrat, Arial, Helvetica, sans-serif;
@@ -594,7 +594,7 @@ header .nav .right-div .nav-button-container .button-el:hover {
     padding: 0;
     box-sizing: border-box;
     width: 100%;
-    overflow: hidden;
+    overflow-x: hidden;
   }
   html {
     overflow-x: hidden;
@@ -1070,7 +1070,7 @@ header .nav .right-div .nav-button-container .button-el:hover {
 }
 @media screen and (min-width: 640px) and (max-width: 1000px) {
   html {
-    overflow: hidden;
+    overflow-x: hidden;
   }
   .header {
     height: 100px;
